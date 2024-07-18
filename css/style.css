@@ -1,9 +1,6 @@
 /**
-* Template Name: Restaurantly
+* Template Name: Restaurante
 * Updated: Jul 27 2023 with Bootstrap v5.3.1
-* Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
 */
 
 /*--------------------------------------------------------------
@@ -893,7 +890,7 @@ section {
 /*--------------------------------------------------------------
 # Menu Section
 --------------------------------------------------------------*/
-.menu #menu-flters {
+.menu #menu-filters {
   padding: 0;
   margin: 0 auto 0 auto;
   list-style: none;
@@ -901,7 +898,7 @@ section {
   border-radius: 50px;
 }
 
-.menu #menu-flters li {
+.menu #menu-filters li {
   cursor: pointer;
   display: inline-block;
   padding: 8px 12px 10px 12px;
@@ -915,12 +912,12 @@ section {
   font-family: "Playfair Display", serif;
 }
 
-.menu #menu-flters li:hover,
-.menu #menu-flters li.filter-active {
+.menu #menu-filters li:hover,
+.menu #menu-filters li.filter-active {
   color: #cda45e;
 }
 
-.menu #menu-flters li:last-child {
+.menu #menu-filters li:last-child {
   margin-right: 0;
 }
 
